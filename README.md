@@ -1,2 +1,2 @@
 # helloworld
-my first program in github
+this is my first java program on github
